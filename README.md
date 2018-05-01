@@ -3,3 +3,5 @@ This is a midi controlled synthesizer written in Python 3, with the actual reson
 The repository contains all the files needed to build it on a Linux system, with the midi control coming from ALSA.
 
 Requires numpy, mido, pyqt5 and SWIG to build.
+
+This branch for changing the voice handling in the python code.

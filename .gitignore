@@ -1,0 +1,6 @@
+$ cat .gitignore
+*.[o]
+*~
+*.so
+res.py
+res_wrap.cxx

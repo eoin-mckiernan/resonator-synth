@@ -4,3 +4,4 @@ $ cat .gitignore
 *.so
 res.py
 res_wrap.cxx
+__pycache__
